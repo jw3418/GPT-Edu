@@ -1,2 +1,2 @@
-# Study-WIth-ChatGPT
+# Study-With-ChatGPT
 For senier project
